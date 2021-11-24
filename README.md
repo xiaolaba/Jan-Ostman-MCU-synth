@@ -47,4 +47,4 @@ I had chance that to build one from the Jan's project but lost all those learnin
 my clone of 2019, [人生總有第一次, 試做 Synth 合成器](https://xiaolaba.wordpress.com/2019/03/05/%e4%ba%ba%e7%94%9f%e7%b8%bd%e6%9c%89%e7%ac%ac%e4%b8%80%e6%ac%a1-%e8%a9%a6%e5%81%9a-synth-%e5%90%88%e6%88%90%e5%99%a8/)  
 
 ### my download and cached here
-[Jan_Ostman.d.zip](Jan_Ostman.d.zip)
+[Jan_Ostman.d.zip](https://drive.google.com/drive/folders/1wYk_ouCOsidifTK9WATTX_tYTJs5JvcE?usp=sharing)
