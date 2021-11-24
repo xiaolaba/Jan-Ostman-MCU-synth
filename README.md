@@ -1,5 +1,31 @@
 # Jan-Ostman-MCU-synth
-Do not use for comercial, for own education purpose only!!! AVR / MCU audio synthesizer design, this is the blog/code and copied content, from the google and searched.   
+Do not use for comercial, for own education purpose only!!! AVR / MCU audio synthesizer design, this is the blog/code and copied content, from the google and searched.  
+
+### according one of codes and original author, GPL3
+so I set here GPL3 too.
+
+```
+// (*) All in the spirit of open-source and open-hardware
+// Janost 2017 Sweden
+
+// The Breadboard-TS 
+// https://janostman.wordpress.com/the-breadboard-ts/
+
+// Copyright 2017 DSP Synthesizers Sweden. 
+// 
+// Author: Jan Ostman 
+// 
+// This program is free software: you can redistribute it and/or modify 
+// it under the terms of the GNU General Public License as published by 
+// the Free Software Foundation, either version 3 of the License, or 
+// (at your option) any later version. 
+// This program is distributed in the hope that it will be useful, 
+// but WITHOUT ANY WARRANTY; without even the implied warranty of 
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
+// GNU General Public License for more details. 
+```
+
+
 
 ### The AVR / MCU audio synthesizer design  
 Jan Ostman was no longer public for the selling and ripped off all those content, someone were telling payment done but never received ordered stuff, something was odd. This is the blog/code and copied content, from the google and searched.
